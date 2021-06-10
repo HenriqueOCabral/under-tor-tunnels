@@ -120,4 +120,4 @@ Repo: https://github.com/ultrafunkamsterdam/AnonSurf
 * Protect your data from ads, trackers, etc.
 * Be prepared to face an army of captchas 😆
 * Not harm to anyone or anything using this tool
-* Even Tor can be pawned: https://youtu.be/WZtsRSBNhuA?t=260
+* Even Tor can be pwned: https://youtu.be/WZtsRSBNhuA?t=260
